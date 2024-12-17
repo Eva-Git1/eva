@@ -1,0 +1,18 @@
+<style>
+.navbar__logo .icon,
+.navbar__center .navbar__logo:after {
+    color: #2990ea !important;
+}
+
+.header-prompt .navbar__link--login,
+.header-prompt .navbar__link.navbar__link--signup {
+  color: #666C70 !important;
+}
+.header-prompt .navbar__link.navbar__link--signup {
+  box-shadow: inset 0 0 0 2px #C9CDCF !important;
+}
+</style>
+<style>{text-align:center};</style>
+<style> ul{text-align:right};</style>
+<style> list{text-align:center};</style>
+<style> h2{text-align:center};</style>
